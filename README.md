@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi everyone, I'm kittyyywr.💫
+___
 
-<!--
-**kiddingtrust/kiddingtrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 Beginner backend developer
+- 🔒 I stand for safe and secure software
+- 🎓 Currently studying at the university
+- :octocat: I increase the range of knowledge on development in different programming languages
+- ⚡ I'm planning to learn the "Swift" programming language
+- :two_hearts: I love JS,PYTHON,C#(WPF)
+___
 
-Here are some ideas to get you started:
+:briefcase: ***My stack:***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![c#](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)![c++](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)
+![html](https://raw.githubusercontent.com/kittyyywr/kittyyywr..) ![py](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)
+![css](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)![js](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)
+![vs](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)
+___
+![logo](https://raw.githubusercontent.com/kittyyywr/kittyyywr..)
