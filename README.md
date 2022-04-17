@@ -11,9 +11,10 @@ ___
 
 :briefcase: ***My stack:***
 
-![c#](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/c%23.png) ![c++](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/c%2B%2B.png)
-![html](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/html.png) ![py](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/py.png)
-![css](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/css.png) ![js](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/js.png)
-![vs](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/visual-studio.png)
+![c#](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/2.png) ![c++](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/1.png)
+![html](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/6.png) ![py](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/8.png)
+![css](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/3.png) ![js](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/7.png)
+![vs](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/9.png) ![dp](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/4.png)
+![figma](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/5.png)
 ___
 ![logo](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/banner.jpg)
