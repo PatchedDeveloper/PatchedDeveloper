@@ -6,7 +6,7 @@ ___
 - 🎓 Currently studying at the university
 - :octocat: I increase the range of knowledge on development in different programming languages
 - ⚡ I'm planning to learn the "Swift" programming language
-- :two_hearts: I love JS,PYTHON,C#(WPF)
+- :two_hearts: I love JS,PYTHON,C#
 ___
 
 :briefcase: ***My stack:***
