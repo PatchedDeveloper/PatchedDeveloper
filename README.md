@@ -6,7 +6,7 @@ ___
 - 🎓 Currently studying at the university
 - :octocat: I increase the range of knowledge on development in different programming languages
 - ⚡ I'm  learn the "Swift" language
-- :two_hearts: I love Swift,C#
+- :two_hearts: I love SwiftUI,Dart
 ___
 
 :briefcase: ***My stack:***
