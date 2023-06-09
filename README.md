@@ -1,12 +1,11 @@
 ### Hi everyone, I'm Patched.💫
 ___
 
-- 👨🏻‍💻 Beginner backend developer
-- 🔒 I stand for safe and secure software
-- 🎓 Currently studying at the university
-- :octocat: I increase the range of knowledge on development in different programming languages
-- ⚡ I'm  learn the "Swift" language
-- :two_hearts: I love SwiftUI,Dart
+- 💻 IOS Developer
+- 🔒 I stand for secure software
+- 📈 It is really important for me to benefit businesses and users of IT products.
+- :octocat: I work in Swift language
+- :two_hearts: [All My Links](taplink.cc/patched)
 ___
 
 :briefcase: ***My stack:***
