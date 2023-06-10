@@ -5,7 +5,6 @@ ___
 - 🔒 I stand for secure software
 - 📈 It is really important for me to benefit businesses and users of IT products.
 - :octocat: I work in Swift language
-- :two_hearts: [All My Links](taplink.cc/patched)
 ___
 
 :briefcase: ***My stack:***
