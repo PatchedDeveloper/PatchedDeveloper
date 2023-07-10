@@ -1,4 +1,17 @@
-### Hi everyone, I'm Patched.💫
+
+<div id="header" align="left">
+	<h1>Hi there, I'm Patched</h1>
+</div>
+
+<div id="socials" align="left">
+	<a href="https://www.linkedin.com/in/patcheddev/">
+		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+	<a href="https://t.me/patcheddev">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+	</a>
+</div>
+
 ___
 
 - 💻 IOS Developer
@@ -16,5 +29,17 @@ ___
 ![py](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/8.png)
 ![js](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/7.png)
 ![figma](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/5.png)
+
+---
+### My stat
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatchedDeveloper&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatchedDeveloper&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatchedDeveloper&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatchedDeveloper&theme=github_dark"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatchedDeveloper&theme=github_dark&utcOffset=8"/>
+</div>
+
 ___
+
 ![logo](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/banner.jpg)
