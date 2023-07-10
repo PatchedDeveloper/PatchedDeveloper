@@ -42,4 +42,3 @@ ___
 
 ___
 
-![logo](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/banner.jpg)
