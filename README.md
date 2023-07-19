@@ -22,11 +22,11 @@ ___
 
 :briefcase: ***My stack:***
 
+![ReactNative](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/64056312-11ed-43cf-b0fc-12afc256683e)
 ![swift](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/10.png)
 ![c#](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/2.png) 
 ![c++](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/1.png)
 ![py](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/8.png)
-![js](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/7.png)
 ![figma](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/5.png)
 
 ---
