@@ -1,6 +1,6 @@
 
 <div id="header" align="left">
-	<h1>Hi there, I'm Patched</h1>
+	<h1>Hi there, I'm Patched.</h1>
 </div>
 
 <div id="socials" align="left">
