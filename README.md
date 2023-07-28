@@ -1,7 +1,6 @@
 
-<div id="header" align="left">
-	<h1>Hi there, I'm Patched.</h1>
-</div>
+![Header](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/6f93e841-95b5-4968-8598-6858fb0e46c4)
+
 
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/patcheddev/">
@@ -21,6 +20,7 @@ ___
 ___
 
 :briefcase: ***My stack:***
+
 
 ![ReactNative](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/64056312-11ed-43cf-b0fc-12afc256683e)
 ![swift](https://raw.githubusercontent.com/kiddingtrust/kiddingtrust/main/ico/10.png)
