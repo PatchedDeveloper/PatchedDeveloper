@@ -2,15 +2,17 @@
 ![Header](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/6f93e841-95b5-4968-8598-6858fb0e46c4)
 
 
-<div id="socials" align="left">
+<div id="socials" align="center">
 	<a href="https://www.linkedin.com/in/patcheddev/">
 	    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 	</a>
 	<a href="https://t.me/patcheddev">
 	      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 	</a>
+<a href="https://discord.com/users/429231370120855552" target="_blank" rel="noreferrer"><img src="https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/a4507174-2933-40d5-922c-76e566e6425f" width="40" height="40" /></a> 
 
 </div>
+
 
 ___
 
