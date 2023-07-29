@@ -13,10 +13,11 @@
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103842703/256980003-a4507174-2933-40d5-922c-76e566e6425f.png" width="40" height="40" alt="telegram" />
 </a>
 <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18">
- <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/9d804edf-b1a7-456e-89ac-64dc1b9cc538" width="40" height="40" alt="spotify" />
+ <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/spotify.png" width="40" height="40" alt="spotify" />
 </a>
 
 </div>
+
 
 ___
 
