@@ -3,7 +3,7 @@
 
 <div id="socials" align="center">
 
-
+**Social**
  
 <a href="https://www.linkedin.com/in/patcheddev/">
  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -37,11 +37,12 @@ ___
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p>
 
 ---
-
-![snake gif](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
-
 📊 ***My stats:***
+
+
 <div id="stat" align="center">
+ 
+![snake gif](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatchedDeveloper&theme=github_dark"/>
