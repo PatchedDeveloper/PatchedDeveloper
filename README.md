@@ -4,11 +4,12 @@
 
 <div id="socials" align="left">
 	<a href="https://www.linkedin.com/in/patcheddev/">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+	    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 	</a>
 	<a href="https://t.me/patcheddev">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+	      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
 	</a>
+
 </div>
 
 ___
