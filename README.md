@@ -30,13 +30,16 @@ ___
 ![figma](https://github.com/kiddingtrust/kiddingtrust/blob/main/ico/5.png)
 
 ---
+
+![snake gif](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
+
 📊 ***My stats:***
 <div id="stat" align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatchedDeveloper&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatchedDeveloper&theme=github_dark"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatchedDeveloper&theme=github_dark&utcOffset=8"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatchedDeveloper&theme=github_dark&utcOffset=8"/>
 </div>
 
 ___
