@@ -1,7 +1,9 @@
 
-![Title](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/3e700a60-bb2e-495f-badd-d4f39449b34e)
+![Title](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/58f83a3a-b977-455e-aaf0-7584739b79f1)
 
 <div id="socials" align="center">
+
+
  
 <a href="https://www.linkedin.com/in/patcheddev/">
  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
