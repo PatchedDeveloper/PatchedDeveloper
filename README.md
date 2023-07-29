@@ -1,6 +1,5 @@
 
-![Header](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/6f93e841-95b5-4968-8598-6858fb0e46c4)
-
+![Title](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/3e700a60-bb2e-495f-badd-d4f39449b34e)
 
 <div id="socials" align="center">
  
