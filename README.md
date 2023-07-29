@@ -3,7 +3,6 @@
 
 <div id="socials" align="center">
 
-**Social**
  
 <a href="https://www.linkedin.com/in/patcheddev/">
  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
@@ -20,10 +19,10 @@
 
 ___
 
-- 💻 IOS Developer
-- 🔒 I stand for secure software
-- 📈 It is really important for me to benefit businesses and users of IT products.
-- :octocat: I work in Swift language
+- 💻 **IOS Developer**
+- 🔒 **I stand for secure software**
+- 📈 **It is really important for me to benefit businesses and users of IT products.**
+- :octocat: **I work in Swift language**
 ___
 
 :briefcase: ***Skills***
