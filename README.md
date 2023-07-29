@@ -3,7 +3,6 @@
 
 <div id="socials" align="center">
 
- 
 <a href="https://www.linkedin.com/in/patcheddev/">
  <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
 </a>
@@ -13,13 +12,11 @@
 <a href="https://discord.com/users/429231370120855552">
  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103842703/256980003-a4507174-2933-40d5-922c-76e566e6425f.png" width="40" height="40" alt="telegram" />
 </a>
-
 <a href="https://open.spotify.com/user/eaae6oi07uqfmuw5x689hjxzf?si=db6a8eec01734b18">
- <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/103842703/256980003-a4507174-2933-40d5-922c-76e566e6425f.png" width="40" height="40" alt="spotify" />
+ <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/9d804edf-b1a7-456e-89ac-64dc1b9cc538" width="40" height="40" alt="spotify" />
 </a>
 
 </div>
-
 
 ___
 
@@ -42,7 +39,6 @@ ___
 ---
 📊 ***My stats:***
 
-
 <div id="stat" align="center">
  
 ![snake gif](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/output/github-contribution-grid-snake-dark.svg)
@@ -51,6 +47,7 @@ ___
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PatchedDeveloper&theme=github_dark"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PatchedDeveloper&theme=github_dark"/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PatchedDeveloper&theme=github_dark&utcOffset=8"/>
+
 </div>
 
 ___
