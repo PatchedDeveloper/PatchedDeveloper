@@ -1,5 +1,8 @@
 
-![Title](https://github.com/PatchedDeveloper/PatchedDeveloper/assets/103842703/58f83a3a-b977-455e-aaf0-7584739b79f1)
+  <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/IMG_1217-2.gif" width="400" height="200" alt="telegram" />
+ 
+   ![Title](https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/IMG_1217-2.gif)
+    
 
 <div id="socials" align="center">
 
