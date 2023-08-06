@@ -1,3 +1,4 @@
+
 <img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/IMG_1217-2.gif" width="1000" height="300" alt="telegram" />
  
 <div id="socials" align="center">
