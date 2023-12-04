@@ -1,6 +1,4 @@
-
-<img src="https://github.com/PatchedDeveloper/PatchedDeveloper/blob/main/ico/IMG_1217-2.gif" width="1000" height="300" alt="telegram" />
- 
+<h1 align="center">Hi, I'm Patched  :octocat:   </h1>
 <div id="socials" align="center">
 
 <a href="https://www.linkedin.com/in/patcheddev/">
@@ -20,10 +18,10 @@
 
 ___
 
-- 💻 **IOS Developer**
+- 💻 **IOS Developer 2 y.e**
 - 🔒 **I stand for secure software**
 - 📈 **It is really important for me to benefit businesses and users of IT products.**
-- :octocat: **I work in Swift language**
+- **:octocat: Studying the blockchain development of Solidity**
 ___
 
 :briefcase: ***Skills***
