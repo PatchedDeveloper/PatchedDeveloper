@@ -21,7 +21,7 @@ ___
 - 💻 **IOS Developer 2 y.e**
 - 🔒 **I stand for secure software**
 - 📈 **It is really important for me to benefit businesses and users of IT products.**
-- **:octocat: Studying the blockchain development of Solidity**
+- **:octocat: Studying the blockchain development **
 ___
 
 :briefcase: ***Skills***
